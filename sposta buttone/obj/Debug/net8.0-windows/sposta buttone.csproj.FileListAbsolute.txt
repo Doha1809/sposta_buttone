@@ -1,0 +1,16 @@
+C:\Users\Utente\source\repos\sposta buttone\bin\Debug\net8.0-windows\sposta buttone.exe
+C:\Users\Utente\source\repos\sposta buttone\bin\Debug\net8.0-windows\sposta buttone.deps.json
+C:\Users\Utente\source\repos\sposta buttone\bin\Debug\net8.0-windows\sposta buttone.runtimeconfig.json
+C:\Users\Utente\source\repos\sposta buttone\bin\Debug\net8.0-windows\sposta buttone.dll
+C:\Users\Utente\source\repos\sposta buttone\bin\Debug\net8.0-windows\sposta buttone.pdb
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta_buttone.Form1.resources
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.csproj.GenerateResource.cache
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.AssemblyInfo.cs
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.dll
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\refint\sposta buttone.dll
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.pdb
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\sposta buttone.genruntimeconfig.cache
+C:\Users\Utente\source\repos\sposta buttone\obj\Debug\net8.0-windows\ref\sposta buttone.dll
